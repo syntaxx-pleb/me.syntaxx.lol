@@ -8,8 +8,8 @@
   "mostActiveDay": "Sep 20",
   "longestStreak": 12,
   "currentStreak": 0,
-  "agentsLocal": 33,
-  "agentsCloud": 4,
+  "agentsLocal": 28,
+  "agentsCloud": 2,
   "longestAgentSeconds": 6163,
   "activityCounts": [
     {
